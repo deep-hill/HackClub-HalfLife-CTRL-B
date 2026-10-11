@@ -1,0 +1,26 @@
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-F_Cu.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-B_Cu.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-F_Adhesive.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-B_Adhesive.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-F_Paste.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-B_Paste.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-F_Mask.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-B_Mask.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_Drawings.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_Comments.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_Eco1.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_Eco2.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-Edge_Cuts.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-Margin.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-F_Courtyard.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-B_Courtyard.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-F_Fab.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-B_Fab.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_1.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_2.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_3.gbr'.
+Plotted to 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-User_4.gbr'.
+Created Gerber job file 'C:\Users\lenovo\Documents\HackClub-HalfLife\Starbie\Starbie-job.gbrjob'.
+Info: Done.
