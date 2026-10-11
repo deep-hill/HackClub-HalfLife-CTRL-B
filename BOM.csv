@@ -5,7 +5,7 @@ DHT11,1,59,Robu,https://robu.in/product/dht11-digital-relative-humidity-temperat
 Cherry MX Linear Switch,3,45,Sunrom,https://sunrom.com
 MX Keycap (R2),3,75,Sunrom,https://sunrom.com
 0.96 inch OLED SSD1306 I2C,1,160,RoboBazar,https://robobazar.in/product/2-44-cm-0-96-inch-i2c-iic-128x64-oled-display-module-4-pin-blue-color-2/
-10K Resistor (pack of 10),ALREADY HAVE IT," ALREADY HAVE IT"," ALREADY HAVE IT"," ALREADY HAVE IT"
+Resistors(10k; 2k2; 1k etc),ALREADY HAVE IT," ALREADY HAVE IT"," ALREADY HAVE IT"," ALREADY HAVE IT"
 HC-SR04 Ultrasonic Sensor,ALREADY HAVE IT," ALREADY HAVE IT"," ALREADY HAVE IT"," ALREADY HAVE IT"
 Passive Buzzer,10(pack),49,Robu,https://robu.in/product/1-month-warranty-1248/,
 CR2032 Battery Holder PTH,1,59,Robu,https://robu.in/product/white-2-x-cr2032-button-battery-case/
@@ -15,19 +15,14 @@ RGB LED Common Cathode 5mm,2,18,RoboBazar,https://robobazar.in/product/rgb-led-5
 Vibration Motor (coin type),1,59,Robu,https://robu.in/product/dc-vibration-motor-module/
 PCF8574T I2C I/O Extension Board,1,69,Robu,https://robu.in/product/pcf8574t-i2c-i-o-extension-board/
 TM1637 4-Digit 7-Segment Display,1,119,Robu,https://robu.in/product/tm1637-digital-tube-blackboard-036-inch-warm-light/
-
+PCB,1,800,Local Store,-
 
 STORE, COMPONENT COST, TAXES, SHIPPING COST, TOTAL COST(inr)
 Robu, 1163, None(taxes included in price), 0, 1163.00
 Sunron, 120, 21.60, 82.60, 224.60
 RoboBazar, 537, 67.86, 99, 444.86
+Local Stores, 850, None(taxes included in price), 0, 850.00
 
 
-
-
-Total Cost(inr) = 1163 + 224.60 + 444.86 = 1832.46
-Total Cost(usd) = 
-
-
-pcb
-more sensors
+Total Cost(inr) = 1163 + 224.60 + 444.86 + 850 = 2682.46
+Total Cost(usd) = 27.72
