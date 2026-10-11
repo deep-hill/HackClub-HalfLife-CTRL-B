@@ -1,4 +1,4 @@
-ITEM,AMOUNT,COST(USD),STORE,LINK
+ITEM,AMOUNT,TOTAL,STORE,LINK
 XIAO-ESP32-C3,1,$7.76,Robu,https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/
 MPU6050,1,$1.04,RoboBazar,https://robobazar.in/product/mpu6050-triple-axis-gyro-accelerometer-module/
 DHT11,1,$0.61,Robu,https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/
